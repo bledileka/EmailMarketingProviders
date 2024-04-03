@@ -1,0 +1,24 @@
+#List of domains used for tracking, clicks, redirect etc.
+
+#GetResponse Domains
+
+getresponse.com
+app.getresponse.com
+getresponse-notify.com
+
+
+  
+#SquareSpace Domains
+  
+leadpages.co
+lpcontent.net
+leadpages.io
+leadpages.net
+getresponsenow.leadpages.co
+user.lpcontent.net
+api.leadpages.io
+static.leadpages.net
+
+#ClickFunnels
+
+getresponseserver.clickfunnels.com
